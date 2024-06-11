@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471014455639",
+    "project_id": "pennywise-465c9",
+    "storage_bucket": "pennywise-465c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471014455639:android:65dff06b3c61dc93572612",
+        "android_client_info": {
+          "package_name": "com.finwise.finwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471014455639-vrasb71gtda0fb7cnns9ems1b9khn18f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finwise.finwise",
+            "certificate_hash": "3f36a926e2d263034ba55724f33fd5c02fe887cb"
+          }
+        },
+        {
+          "client_id": "471014455639-p8jbu9rnnjklt141upa10fpifitdq7qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2q3To2xikPAdm1vE2legoOynGFBI1nNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471014455639-p8jbu9rnnjklt141upa10fpifitdq7qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
